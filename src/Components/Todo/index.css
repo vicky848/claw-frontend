@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.input-todo{
+    width: 500px;
+    height: 40px;
+}
+.heading{
+    text-align: center;
+}
+.list-container{
+    list-style-type: none;
+   
+    
+  
+  
+
+}
+
+
+
+ 
+

@@ -1,0 +1,46 @@
+.reg-container{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://cdn.pixabay.com/photo/2015/01/14/18/41/home-office-599475_960_720.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.form-container{
+    background-color: rgba(212, 208, 208, .6);
+  
+    border: 1px solid rgb(128, 126, 126);
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    
+}
+
+
+
+label{
+    font-size: 23px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+.register-input{
+    height: 25px;
+    width: 200px;
+    margin: 10px;
+}
+
+.register-button{
+    height: 32px;
+    width: 132px;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 7px;
+    border-width: 0px;
+    cursor: pointer;
+    margin: 5px;
+}
